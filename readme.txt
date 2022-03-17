@@ -1,2 +1,4 @@
 This is zch's git.
-Git is free software.
+zch's git : 
+name: zch
+email:1337635899@qq.com
